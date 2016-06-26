@@ -7,14 +7,14 @@
     <layouts>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/obs_info_popup.xml">
         <config>
-          <theme>@android:style/Theme.Light</theme>
+          <theme>@android:style/Theme</theme>
         </config>
       </layout>
     </layouts>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9249185-3835-4338-ad34-cc65a1adcfdc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="muzima-android.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,8 +58,8 @@
       <file leaf-file-name="obs_info_popup.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/obs_info_popup.xml">
           <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.5">
-              <caret line="64" column="33" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
+            <state vertical-scroll-proportion="-6.769231">
+              <caret line="65" column="48" selection-start-line="65" selection-start-column="48" selection-end-line="65" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -1998,7 +1998,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1370" height="772" extended-state="0" />
+    <frame x="-8" y="-8" width="1370" height="772" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2059,8 +2059,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/obs_info_popup.xml">
       <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.5">
-          <caret line="64" column="33" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
+        <state vertical-scroll-proportion="-6.769231">
+          <caret line="65" column="48" selection-start-line="65" selection-start-column="48" selection-end-line="65" selection-end-column="48" />
           <folding />
         </state>
       </provider>
