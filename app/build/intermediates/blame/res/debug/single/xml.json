@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\xml\\preference.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\xml\\searchable.xml"
+    }
+]

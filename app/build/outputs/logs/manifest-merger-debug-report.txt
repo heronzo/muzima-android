@@ -1,0 +1,479 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:2:1-345:12
+	package
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:3:11-31
+		INJECTED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:5:11-38
+		INJECTED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:7:5-9:44
+	android:targetSdkVersion
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:9:13-42
+		INJECTED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:8:13-38
+		INJECTED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.READ_LOGS
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:16:22-65
+application
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:18:5-343:19
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:21:13-45
+	android:allowBackup
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:19:13-39
+	android:icon
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:20:13-54
+	android:theme
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:22:13-44
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:23:13-46
+meta-data#android.app.default_searchable
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:24:9-26:72
+	android:value
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:26:17-70
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:25:17-62
+activity#com.muzima.view.DisclaimerActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:28:9-31:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:30:17-50
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:29:17-56
+activity#com.muzima.view.MainActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:33:9-41:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:36:17-49
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:35:17-63
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:34:17-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:38:17-68
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:39:27-74
+activity#com.muzima.view.concept.ConceptListActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:43:9-47:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:46:17-68
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:45:17-63
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:44:17-65
+activity#com.muzima.view.location.LocationListActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:49:9-53:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:52:17-69
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:51:17-63
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:50:17-67
+activity#com.muzima.view.login.LoginActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:55:9-60:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:58:17-49
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:57:17-63
+	android:theme
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:59:17-59
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:56:17-67
+activity#com.muzima.view.cohort.CohortActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:62:9-70:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:64:17-67
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:66:17-74
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:65:17-63
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:63:17-69
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:67:13-69:67
+	android:value
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:69:21-65
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:68:21-67
+activity#com.muzima.view.preferences.SettingsActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:72:9-78:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:76:17-64
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:77:17-74
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:75:17-63
+	android:theme
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:74:17-56
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:73:17-66
+activity#com.muzima.view.preferences.ProviderPreferenceActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:79:9-88:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:83:17-69
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:84:17-90
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:82:17-63
+	android:theme
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:81:17-56
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:80:17-76
+activity#com.muzima.view.provider.ProviderListActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:89:9-93:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:92:17-69
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:91:17-63
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:90:17-67
+activity#com.muzima.view.preferences.CohortPreferenceActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:94:9-104:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:99:17-67
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:100:17-90
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:97:17-63
+	android:theme
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:96:17-56
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:95:17-74
+activity#com.muzima.view.preferences.ConceptPreferenceActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:105:9-114:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:109:17-68
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:110:17-90
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:108:17-63
+	android:theme
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:107:17-56
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:106:17-75
+activity#com.muzima.view.preferences.LocationPreferenceActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:115:9-124:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:119:17-69
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:120:17-90
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:118:17-63
+	android:theme
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:117:17-56
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:116:17-76
+activity#com.muzima.view.HelpActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:125:9-133:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:127:17-60
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:129:17-74
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:128:17-63
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:126:17-60
+activity#com.muzima.view.WebViewActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:134:9-142:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:136:17-60
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:138:17-74
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:137:17-63
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:135:17-63
+activity#com.muzima.view.patients.PatientsListActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:144:9-152:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:146:17-68
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:148:17-74
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:147:17-63
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:145:17-67
+activity#com.muzima.view.patients.PatientRemoteSearchListActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:154:9-158:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:157:17-68
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:156:17-63
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:155:17-78
+activity#com.muzima.view.forms.FormsActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:160:9-168:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:162:17-65
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:164:17-74
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:163:17-63
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:161:17-57
+activity#com.muzima.view.forms.FormWebViewActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:170:9-179:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:172:17-68
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:175:17-81
+	android:windowSoftInputMode
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:174:17-59
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:173:17-63
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:171:17-63
+activity#com.muzima.view.forms.HTMLFormWebViewActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:181:9-190:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:183:17-68
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:186:17-81
+	android:windowSoftInputMode
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:185:17-59
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:184:17-63
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:182:17-67
+activity#com.muzima.view.patients.PatientSummaryActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:191:9-199:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:194:17-70
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:195:17-91
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:193:17-63
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:192:17-69
+activity#com.muzima.view.forms.PatientFormsActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:201:9-209:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:203:17-70
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:205:17-93
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:204:17-63
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:202:17-64
+activity#com.muzima.view.notifications.PatientNotificationActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:211:9-218:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:213:17-70
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:214:17-93
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:212:17-79
+activity#com.muzima.view.patients.ObservationsActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:220:9-228:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:223:17-75
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:224:17-93
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:222:17-63
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:221:17-67
+activity#com.muzima.view.encounters.EncountersActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:229:9-237:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:232:17-73
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:233:17-93
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:231:17-63
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:230:17-67
+activity#com.muzima.view.encounters.EncounterSummaryActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:238:9-246:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:241:17-73
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:242:17-93
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:240:17-63
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:239:17-73
+activity#com.muzima.view.forms.RegistrationFormsActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:248:9-250:86
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:250:19-59
+	android:noHistory
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:250:60-84
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:249:19-65
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:248:19-71
+activity#com.muzima.utils.imaging.ImagingIntent
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:252:9-259:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:254:17-61
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:255:17-81
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:253:17-60
+activity#com.muzima.utils.audio.AudioIntent
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:261:9-270:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:263:17-61
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:266:17-81
+	android:windowSoftInputMode
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:265:17-59
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:264:17-63
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:262:17-56
+activity#com.muzima.utils.video.VideoIntent
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:272:9-281:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:274:17-61
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:277:17-81
+	android:windowSoftInputMode
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:276:17-59
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:275:17-63
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:273:17-56
+activity#com.muzima.view.notifications.NotificationActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:283:9-292:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:285:17-68
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:288:17-93
+	android:windowSoftInputMode
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:287:17-59
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:286:17-63
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:284:17-72
+activity#com.muzima.view.notifications.NotificationsListActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:294:9-302:20
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:296:17-73
+	android:parentActivityName
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:298:17-74
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:297:17-63
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:295:17-77
+activity#com.muzima.view.cohort.CohortWizardActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:305:9-307:55
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:306:19-65
+	android:theme
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:307:19-53
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:305:19-67
+activity#com.muzima.view.forms.FormTemplateWizardActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:308:9-310:55
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:309:19-65
+	android:theme
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:310:19-53
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:308:19-72
+activity#com.muzima.view.location.CustomLocationWizardActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:311:9-313:55
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:312:19-65
+	android:theme
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:313:19-53
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:311:19-77
+activity#com.muzima.view.provider.CustomProviderWizardActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:314:9-317:55
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:315:19-56
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:316:19-65
+	android:theme
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:317:19-53
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:314:19-77
+activity#com.muzima.view.concept.CustomConceptWizardActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:318:9-321:55
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:319:19-56
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:320:19-65
+	android:theme
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:321:19-53
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:318:19-75
+activity#com.muzima.view.InstallBarCodeWizardActivity
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:322:9-325:55
+	android:label
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:323:19-58
+	android:configChanges
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:324:19-65
+	android:theme
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:325:19-53
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:322:19-68
+receiver#com.muzima.utils.ConnectivityChangeReceiver
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:328:9-332:20
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:328:19-77
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:329:13-331:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:330:17-78
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:330:25-76
+service#com.muzima.service.DataSyncService
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:334:9-335:44
+	android:exported
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:335:18-42
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:334:18-57
+activity#org.acra.CrashReportDialog
+ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:337:9-341:55
+	android:excludeFromRecents
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:340:19-52
+	android:launchMode
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:339:19-54
+	android:finishOnTaskLaunch
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:341:19-52
+	android:theme
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:338:19-62
+	android:name
+		ADDED from C:\Users\HERONS\AndroidStudioProjects\muzima-android\app\src\main\AndroidManifest.xml:337:19-60

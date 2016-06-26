@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registration_form_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_registration_form_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patient_observations.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_patient_observations.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_cohorts_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\item_cohorts_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_layout.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\search_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cohort_pref.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_cohort_pref.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_observation_by_encounter.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\item_observation_by_encounter.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_provider_preference.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_provider_preference.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_form_templates_wizard.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_form_templates_wizard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_form_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_form_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sync.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_sync.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_location_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\item_location_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\form_list_item.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\form_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_encounter_summary.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_encounter_summary.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_notifications_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\item_notifications_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cohort_prefix_wizard.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_cohort_prefix_wizard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notification.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_with_pager.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_with_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_empty_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\view_empty_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tag.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\tag.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_audio.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_audio.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imaging.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_imaging.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_observation_by_encounter_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\item_observation_by_encounter_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_observation_by_concept_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\item_observation_by_concept_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_patients_list_multi_checkable.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\item_patients_list_multi_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_synced_cohorts_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\item_synced_cohorts_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_bar.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_option_autocomplete.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\item_option_autocomplete.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patient_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_patient_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help_display.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_help_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_location_wizard.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_custom_location_wizard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patient_remote_search_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_patient_remote_search_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notice_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_notice_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patient_encounters.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_patient_encounters.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\layout_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_disclaimer.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_disclaimer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_concept_wizard.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_custom_concept_wizard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_form_tags.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_form_tags.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_concept_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_concept_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_provider_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_provider_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_location_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_synced_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\layout_synced_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location_preference.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_location_preference.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_forms_list_section_header.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\layout_forms_list_section_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_provider_wizard.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_custom_provider_wizard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_concept_preference.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_concept_preference.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_install_barcode_wizard.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_install_barcode_wizard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_observation_by_concept.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\item_observation_by_concept.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cohort_prifix_pref.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_cohort_prifix_pref.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_preference.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\item_preference.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_list_with_sections.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\layout_list_with_sections.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_client_summary.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_client_summary.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_forms_list_selectable.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\item_forms_list_selectable.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cohort_wizard.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_cohort_wizard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_form_webview.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_form_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_encounter_observation.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\item_encounter_observation.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_provider_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\item_provider_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_concept_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\item_concept_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forms.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_forms.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_forms_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\item_forms_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_client.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\activity_register_client.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_encounter.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\item_encounter.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_menuitem.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\refresh_menuitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_tags_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout\\item_tags_list.xml"
+    }
+]

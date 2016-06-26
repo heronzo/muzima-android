@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_warning.png",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_accept.png",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_accept.png"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_labels_disabled.png",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_labels_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_important.png",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_important.png"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_undo.png",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_undo.png"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_discard.png",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_discard.png"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher_logo.png",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\barcode_scanner.9.png",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\drawable-xxhdpi\\barcode_scanner.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_save.png",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_save.png"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_upload.png",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_upload.png"
+    }
+]

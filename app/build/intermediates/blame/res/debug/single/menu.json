@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\register_client.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\menu\\register_client.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\client_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\menu\\client_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\download_form_template_wizard.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\menu\\download_form_template_wizard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\form_list_menu.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\menu\\form_list_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\reminders.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\menu\\reminders.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search_results.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\menu\\search_results.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_completed_encounter_form.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\menu\\menu_completed_encounter_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\notice_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\menu\\notice_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\notification_list_menu.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\menu\\notification_list_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\client_summary.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\menu\\client_summary.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\observation_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\menu\\observation_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cohort_list_menu.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\menu\\cohort_list_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\dashboard.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\menu\\dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\help.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\menu\\help.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\form_list.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\menu\\form_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\client_observations.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\menu\\client_observations.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sync.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\menu\\sync.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_save_form.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\menu\\menu_save_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\actionmode_menu_download.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\menu\\actionmode_menu_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_completed_registration_form.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\menu\\menu_completed_registration_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\actionmode_menu_delete.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\menu\\actionmode_menu_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\settings.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\menu\\settings.xml"
+    }
+]

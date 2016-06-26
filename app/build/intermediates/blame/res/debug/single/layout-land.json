@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_notification.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout-land\\activity_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_video.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout-land\\activity_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_login.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout-land\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_imaging.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout-land\\activity_imaging.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_audio.xml",
+        "source": "C:\\Users\\HERONS\\AndroidStudioProjects\\muzima-android\\app\\src\\main\\res\\layout-land\\activity_audio.xml"
+    }
+]
